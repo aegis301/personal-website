@@ -1,151 +1,218 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Christian Porschen",
+    "label": "Physician and Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "christian.porschen@gmail.com",
+    "url": "https://aegis301.github.io/al-folio/",
+    "summary": "A physician resident in anaesthesiology and intensive care, with a focus on critical care and emergency medicine. A scientist with a focus on AI based time series modeling of organ function in the intensive care setting. Founder of helpwave driving the open source revolution in healthcare.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Albert-Schweitzer-Campus 1A",
+      "postalCode": "48149",
+      "city": "Münster",
+      "countryCode": "DE",
+      "region": "Nordrhein-Westfalen"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Christian Porschen",
+        "url": "https://www.linkedin.com/in/cpors/"
+      },
+      {
+        "network": "Instagram",
+        "username": "c_porschi",
+        "url": "https://www.instagram.com/c_porschi"
+      },
+      {
+        "network": "Instagram",
+        "username": "porschis_photo_blog",
+        "url": "https://www.instagram.com/c_porschi"
+      },
+      {
+        "network": "GitHub",
+        "username": "aegis301",
+        "url": "https://www.gitub.com/aegis301"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Universitätsklinikum Münster",
+      "position": "Assistenzarzt",
+      "url": "https://ukm.de",
+      "startDate": "2021-03-01",
+      "endDate": "",
+      "summary": "Resident physician in the department of anaesthesiology and intensive care. Focus on critical care and emergency medicine.",
+      "highlights": ["Medicine", "Critical Care", "Emergency Medicine", "Anaesthesiology"]
+    },
+    {
+      "name": "helpwave",
+      "position": "Founder and Chief Medical Officer",
+      "url": "https://helpwave.de",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "summary": "Founder of helpwave, driving the open source revolution in healthcare.",
+      "highlights": ["Open Source", "Healthcare", "Process Science"]
+    },
+    {
+      "name": "Universität Münster",
+      "position": "Wissenschaftlicher Mitarbeiter",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Data Scientist in the department of anaesthesiology and intensive care. Focus on AI based time series modeling of organ function in the intensive care setting. Founded the research group 'Anesthesiology and Intensive Care in Artificial Intelligence and Digita Health Münster' or 'AIDH-MS'.",
+      "highlights": ["AI", "Time Series Modeling", "Organ Function", "Intensive Care"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
+      "organization": "Amnesty International Germany",
+      "location": "Münster, Germany",
       "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "url": "https://amnesty.de",
+      "startDate": "2013-09-01",
+      "endDate": "2016-02-01",
+      "summary": "Lead organizer for several events such as the yearly poetry slam. Leading position in school educational programs for the education on human rights.",
+      "highlights": ["Human Rights", "Education"]
+    },
+    {
+      "organization": "Techlabs Münster",
+      "location": "Münster, Germany",
+      "position": "Mentor",
+      "url": "https://techlabs-ms.framer.website/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Mentor for the Techlabs Münster program. Techlabs is a student initiative that offers a program for students to learn how to code.",
+      "highlights": ["Education", "Coding", "Mentoring"]
+  
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Münster, Münster, Germany",
+      "location": "Münster, Germany",
+      "url": "https://www.uni-muenster.de/",
+      "area": "Medicine",
+      "studyType": "MD",
+      "startDate": "2014-04-01",
+      "endDate": "2020-11-01",
+      "score": "2"
+    },
+    {
+      "institution": "University of Münster, Münster, Germany",
+      "location": "Münster, Germany",
+      "url": "https://www.uni-muenster.de/",
+      "area": "Promotion",
+      "studyType": "Dr. med.",
+      "startDate": "2020-11-01",
+      "endDate": "2022-02-01",
+      "score": "1"
+    },
+    {
+      "institution": "St.Johannis-Schule, Bremen, Germany",
+      "location": "Bremen, Germany",
+      "studyType": "Abitur",
+      "startDate": "2006-08-01",
+      "endDate": "2013-07-01",
+      "score": "1.1"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Clinician Scientist CareerS Starter Program",
+      "date": "2023-01-01",
+      "awarder": "Universität Münster",
+      "url": "https://www.medizin.uni-muenster.de/fakultaet/forschung/foerderung-karriere/clinician-scientists/foerdermodule/careers-starter.html",
+      "summary": "Clinician Scientist CareerS Starter Program for the promotion of young scientists in the field of medicine. Funding of my own position as a scientist."
+    },
+    {
+      "title": "Clinician Scientist CareerS Boost Program",
+      "date": "2024-01-01",
+      "awarder": "Universität Münster",
+      "url": "https://www.medizin.uni-muenster.de/fakultaet/forschung/foerderung-karriere/clinician-scientists/foerdermodule/careers-boost.html",
+      "summary": "Clinician Scientist CareerS Boost Program for the promotion of young scientists in the field of medicine. Funding of my own position as a scientist."
+    },
+    {
+      "title": "IMF Grant",
+      "date": "2024-06-01",
+      "awarder": "Universität Münster",
+      "url": "https://www.medizin.uni-muenster.de/imf/das-imf.html",
+      "summary": "Project specific funding of 182,214.00 EUR for the project 'AI based time series modeling of organ function in the intensive care setting'."
     }
+
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Specimens Only Research",
+      "date": "2021-04-01",
+      "issuer": "CITI Program",
+      "url": "https://www.citiprogram.org/verify/?w53ddc398-ac96-4ad5-b243-f9ffa7fcfadb-41999281",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Investigator Training Course GCP and AMG",
+      "date": "2021-12-28",
+      "issuer": "KKS Netzwerk",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Personalized acute kidney injury treatment. ",
+      "publisher": "Current Opinion in Critical Care",
+      "releaseDate": "2023-12-01",
+      "url": "https://journals.lww.com/co-criticalcare/fulltext/2023/12000/personalized_acute_kidney_injury_treatment.6.aspx",
+      "summary": "A personalized approach to AKI treatment as well as research is becoming increasingly important as it allows the identification of distinct AKI phenotypes and the potential for targeted interventions. By utilizing biomarkers and clinical features, physicians might be able to stratify patients into subphenotypes, enabling more individualized treatment strategies. This review highlights the potential of personalized AKI treatment, emphasizing the need for further research and large-scale clinical trials to validate the efficacy of these approaches."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Implementation of Nephroprotective Measures to Prevent Acute Kidney Injury in Septic Patients: A Retrospective Cohort Study",
+      "publisher": "Anesthesia and Analgesia",
+      "releaseDate": "2023-12-01",
+      "url": "https://journals.lww.com/anesthesia-analgesia/fulltext/2023/12000/implementation_of_nephroprotective_measures_to.18.aspx",
+      "summary": "The KDIGO bundle appears to improve outcomes in patients with sepsis. Prospective randomized trials using this intervention are warranted."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "DeepTSE: A Time-Sensitive Deep Embedding of ICU Data for Patient Modeling and Missing Data Imputation",
+      "publisher": "Studies in Health Technology and Informatics",
+      "releaseDate": "2023-09-01",
+      "url": "https://ebooks.iospress.nl/doi/10.3233/SHTI230110",
+      "summary": "Missing data is a common problem in the intensive care unit as a variety of factors contribute to incomplete data collection in this clinical setting. This missing data has a significant impact on the accuracy and validity of statistical analyses and prognostic models. Several imputation methods can be used to estimate the missing values based on the available data. Although simple imputations with mean or median generate reasonable results in terms of mean absolute error, they do not account for the currentness of the data. Furthermore, heterogeneous time span of data records adds to this complexity, especially in high-frequency intensive care unit datasets. Therefore, we present DeepTSE, a deep model that is able to cope with both, missing data and heterogeneous time spans. We achieved promising results on the MIMIC-IV dataset that can compete with and even outperform established imputation methods."
+    },
+    {
+      "name": "pyAKI—An open source solution to automated acute kidney injury classification",
+      "publisher": "PLOS One",
+      "releaseDate": "2025-01-03",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315325",
+      "summary": "This work introduces pyAKI as an open-source solution for implementing the KDIGO criteria for AKI diagnosis using time series data with high accuracy and performance."
+    },
+    {
+      "name": "Prediction of Acute Kidney Injury in the Intensive Care Unit: Preliminary Findings in a European Open Access Database",
+      "publisher": "IOS Press",
+      "releaseDate": "2022-09-01",
+      "url": "https://ebooks.iospress.nl/doi/10.3233/SHTI220419",
+      "summary": "Acute kidney injury (AKI) is a common complication in critically ill patients and is associated with long-term complications and an increased mortality. This work presents preliminary findings from the first freely available European intensive care database released by Amsterdam UMC. A machine learning (ML) model was developed to predict AKI in the intensive care unit 12 hours before the actual event. Main features of the model included medications and hemodynamic parameters. Our models perform with an accuracy of 81.8% on moderate to severe AKI and 79.8% on all AKI patients. Those results can compete with models reported in the literature and introduce an ML model for AKI based on European patient data."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Machine Learning and Data Science",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Tensorflow",
+        "Keras",
+        "PyTorch",
+        "Scikit-learn",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Dash",
+        "Streamlit",
+        "Jupyter"
       ]
     }
   ],
@@ -159,42 +226,48 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Advanced",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Classical Music",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Piano"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Photography",
+      "icon": "fa-solid fa-camera",
+      "keywords": [
+        "Landscape",
+        "Wildlife",
+        "Stills"
+      ]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Literature",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Poetry",
+        "Novels",
+        "Non-Fiction"
+      ]
     }
   ]
 }
